@@ -1,0 +1,15 @@
+*{
+    font-family: sans-serif;
+}
+.mydata{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin-left: 30%;
+    padding: 25px;
+    box-shadow: 2px 3px 15px grey;
+}
+.myform{
+    display: flex;
+    flex-direction: column;
+}
